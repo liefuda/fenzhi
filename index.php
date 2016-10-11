@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+        $a=123;
         echo '我是主分支';
         ?>
     </body>
