@@ -14,6 +14,7 @@ and open the template in the editor.
         // put your code here
         $a=123;
         echo '我是主分支';
+       echo "<h1>大家各自写一个同名的变量</h1>";
         ?>
     </body>
 </html>
